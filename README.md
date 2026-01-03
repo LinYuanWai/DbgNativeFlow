@@ -98,6 +98,7 @@ Ideal for controlled start/end tracing
 7. Breakpoint Record
 ![Description](breakrecord.jpg)
 A lightweight alternative to Trace.
+Use Breakpoint Record with Find Text to pinpoint execution flow without massive trace files.
 
 Records:
 
@@ -148,10 +149,11 @@ Run single commands or full scripts instantly
 
 🧩 Dump Window Extensions
 1. Dump as C Array
+![Description](dumptocarray.jpg)
 Convert selected memory into a ready‑to‑use C array.
 Perfect for crypto debugging and algorithm verification.
 
-2. Follow in Dump (1–5)
+3. Follow in Dump (1–5)
 Interpret the first 4/8 bytes as a pointer and jump through nested structures instantly.
 
 📦 Installation
