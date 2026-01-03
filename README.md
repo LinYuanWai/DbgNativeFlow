@@ -163,14 +163,17 @@ Unzip DbgNativeFlow64.rar and DbgNativeFlow32.rar and copy the files into:
 x64dbg\plugins\release\x64\   (for 64‑bit)
 
 x64dbg\plugins\release\x32\   (for 32‑bit)
+
 Required files:
 
 64‑bit
+
 DbgNativeFlow.dp64
 
 DbgbaseHook64.dll
 
 32‑bit
+
 DbgNativeFlow.dp32
 
 DbgbaseHook32.dll
