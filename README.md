@@ -128,6 +128,7 @@ Copy/Follow/Breakpoint actions
 Perfect for IDA pseudocode navigation
 
 11. Script Editor
+![Description](scripteditor.jpg)
 A lightweight script editor embedded inside x64dbg.
 
 Features:
