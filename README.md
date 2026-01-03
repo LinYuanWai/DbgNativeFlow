@@ -117,6 +117,7 @@ Quickly set breakpoints on the current CPU address.
 Stored in the plugin’s breakpoint list.
 
 10. Address Converter
+![Description](addressconverter.jpg)
 Bidirectional address translation between IDA static addresses and x64dbg dynamic addresses.
 
 Supports:
