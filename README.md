@@ -168,14 +168,18 @@ DbgNativeFlow.dp32
 DbgbaseHook32.dll
 
 DbgbaseHook*.dll is required for Window Message Monitor (Windows hook library. Written by myself, not by a third party.)
+
 All other modules work without it.
 
 Optional directories:
 
 Code
 \param\icon\         (menu icons)
+
 \param\config\WM_Message.ini
+
 \param\config\DbgCommand.ini
+
 ❤️ Support the Project
 If this toolkit saves you time, helps your workflow, or simply makes debugging more enjoyable,
 consider buying me a coffee:
