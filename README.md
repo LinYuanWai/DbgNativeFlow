@@ -71,12 +71,12 @@ Binary pattern search with wildcards (* or ? per byte).
 More flexible and readable than x64dbg’s built‑in signature search.
 
 5. Window Message Monitor
+![Description](WndMsgMonitor.jpg)
 x64dbg cannot capture window messages from the debuggee — this module fixes that.
 
 Features:
 
 5 types of Windows hooks
-![Description](WndMsgMonitor.jpg)
 Capture mouse, keyboard, and window messages
 
 Right‑click to set precise breakpoints on specific messages
