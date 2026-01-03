@@ -69,7 +69,7 @@ Memory strings can be hardware‑breakpointed to find who reads sensitive data (
 Binary pattern search with wildcards (* or ? per byte).
 More flexible and readable than x64dbg’s built‑in signature search.
 
-5. WndMsg Spy
+5. Window Message Monitor
 x64dbg cannot capture window messages from the debuggee — this module fixes that.
 
 Features:
