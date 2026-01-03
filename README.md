@@ -37,6 +37,7 @@ Recalculates addresses automatically
 
 🧩 Included Modules (CPU Window → DbgNativeFlow)
 1. Find Text
+![Description](findtext.jpg)
 Search assembly instructions across one or multiple modules.
 
 Supports:
@@ -190,5 +191,3 @@ Your support helps me continue improving the plugin.
 📜 License
 MIT License (or whichever you prefer)
 
-
-![Description](findtext.jpg)
