@@ -52,6 +52,7 @@ Reverse‑tracing workflows (e.g., encryption routines)
 Same as Find Text, but limited to branch instructions (call, jmp, etc.).
 
 3. Search Strings
+![Description](searchstring.jpg)
 Search static module strings or dynamic memory strings.
 
 Supports:
