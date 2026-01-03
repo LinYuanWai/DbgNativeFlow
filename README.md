@@ -189,3 +189,6 @@ Your support helps me continue improving the plugin.
 
 📜 License
 MIT License (or whichever you prefer)
+
+
+![Description](findtext.jpeg)
