@@ -95,6 +95,7 @@ Stops safely on async failures
 Ideal for controlled start/end tracing
 
 7. Breakpoint Record
+![Description](breakrecord.jpg)
 A lightweight alternative to Trace.
 
 Records:
