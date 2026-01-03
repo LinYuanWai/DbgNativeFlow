@@ -157,10 +157,11 @@ Perfect for crypto debugging and algorithm verification.
 Interpret the first 4/8 bytes as a pointer and jump through nested structures instantly.
 
 📦 Installation
-Unzip DbgNativeFlow.rar and copy the files into:
+Unzip DbgNativeFlow64.rar and DbgNativeFlow32.rar and copy the files into:
 
-Code
+
 x64dbg\plugins\release\x64\   (for 64‑bit)
+
 x64dbg\plugins\release\x32\   (for 32‑bit)
 Required files:
 
