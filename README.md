@@ -173,7 +173,6 @@ All other modules work without it.
 
 Optional directories:
 
-Code
 \param\icon\         (menu icons)
 
 \param\config\WM_Message.ini
