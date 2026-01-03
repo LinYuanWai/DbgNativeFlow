@@ -76,7 +76,7 @@ x64dbg cannot capture window messages from the debuggee — this module fixes th
 Features:
 
 5 types of Windows hooks
-
+![Description](WndMsgMonitor.jpg)
 Capture mouse, keyboard, and window messages
 
 Right‑click to set precise breakpoints on specific messages
