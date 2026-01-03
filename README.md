@@ -3,7 +3,7 @@ A lightweight, high‑performance extension suite for real‑world reverse engin
 
 🔧 Overview
 DbgNativeFlow is a collection of native x64dbg extensions designed for practical reverse engineering workflows.
-No dependencies, no scripting frameworks, no heavy UI layers — just pure C++ and fast, predictable behavior.
+No dependencies, no scripting frameworks, no heavy UI layers — just pure C++ and Win32 API fast, predictable behavior.
 
 The goal is simple:
 
@@ -167,7 +167,7 @@ DbgNativeFlow.dp32
 
 DbgbaseHook32.dll
 
-DbgbaseHook*.dll is required for WndMsg Spy (Windows hook library).
+DbgbaseHook*.dll is required for Window Message Monitor (Windows hook library. Written by myself, not by a third party.)
 All other modules work without it.
 
 Optional directories:
