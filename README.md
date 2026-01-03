@@ -191,4 +191,4 @@ Your support helps me continue improving the plugin.
 MIT License (or whichever you prefer)
 
 
-![Description](findtext.jpeg)
+![Description](findtext.jpg)
